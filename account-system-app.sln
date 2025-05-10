@@ -1,0 +1,7 @@
+[Solution]
+Name=ACCOUNT-APP
+Type=CustomFullStack
+
+[Projects]
+backend=backend/backend.proj
+frontend=frontend/frontend.proj

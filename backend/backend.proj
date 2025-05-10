@@ -1,0 +1,4 @@
+<Project Sdk="Node">
+  <Name>Backend</Name>
+  <Entry>src/server.ts</Entry>
+</Project>
